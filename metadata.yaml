@@ -1,0 +1,27 @@
+_repo: A-Biographical-Sketch-of-some-of-the-Most-Eminent-Individuals-which-the-Principality-of-Wales__39152
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Williams, Robert
+    birthdate: 1810
+    deathdate: 1881
+    gutenberg_agent_id: '39869'
+    url: http://www.gutenberg.org/2009/agents/39869
+description: ''
+gutenberg_issued: '2012-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39152'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Wales -- Biography'
+title: A Biographical Sketch of some of the Most Eminent Individuals which the Principality
+  of Wales has produced since the Reformation
+url: http://www.gutenberg.org/ebooks/39152
